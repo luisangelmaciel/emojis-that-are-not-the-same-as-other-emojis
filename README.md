@@ -1,3 +1,6 @@
+###### Disclaimer
+Una disculpa por el spanenglish, english to spanish, spanish to english... Gracias a Dios existe Google Traductor. Bueno, continuemos...
+
 # Emojis that are not the same as other emojis
 
 <p><!--<img src="https://img.shields.io/github/release/luisangelmaciel/emojis-that-are-not-the-same-as-other-emojis?style=flat" alt="Latest Github release"> <img src="https://img.shields.io/npm/dm/fluidbox.svg" alt="npm downloads">  -->
@@ -6,28 +9,26 @@
 
 Hola, soy [Luis Angel](https://luisangelmaciel.netlify.app/), otra vez! 👋
 
-*Disclaimer* Una disculpa por el spanenglish, english to spanish, spanish to english... Gracias a Dios existe Google Traductor. Bueno, continuemos...
+Presentando un pack de emojis que trace en CorelDraw una noche de septiembre. Me gusto el resultado  así que los comparto para que puedan crear una experiencia para todos. 
 
 Emojis que no son iguales a los demás Emojis...Si, otros emojis más en cátalogo de emojis, pero estos fueron trazados con amor, mucho amor. 
 
 Además estos Emojis estan super listos y disponibles en alta calidad para ser usados su proyecto como icons, SVG, <!--Less,--> CSS, base 64. 
 
-Presentando un pack de emojis que trace en CorelDraw una noche de septiembre. Me gusto el resultado  así que los comparto para que puedan crear una experiencia para todos. 
-
-### Installation
+## Installation
 To install "Emojis that are not the same as other emojis", you will have to include the following resources in your page. For the CSS file, you can either incorporate it with your site's stylesheet, or load it externally through the link> element in head.
 
-## Usage
+### Usage
 Los íconos se muestran usando un i elemento y agregando la clase según la carita luego la clase de ícono que desee, como por ejemplo day-sunny. Entonces esto parece <i class="emoji enojado"></i>
-
-## Credit
-The icon designs are originally by Monic Needles. Icon art for v1.1 forward, HTML, Less, and CSS are by me (Luis Angel Maciel)
 
 ## ¿Te importaría compartir tu estrellita? 💙
 Puedes poner una estrellita aquí en Github o dando click aquí. 
 We are looking forward to cooperating with you!   
 
-## Road & Contributing
+## Credit
+The icon designs are originally by Monic Needles. Icon art for v1.1 forward, HTML, Less, and CSS are by me (Luis Angel Maciel)
+
+## Maproad & Contributing
 If you feel so inclined to add icon ideas, icon art, or other fixes/changes to how the package works, feel free to help!
 
 Como siempre, estaré encantados de atender cualquier pregunta o comentario que tenga. De igual forma puede obtener información sobre todas las funciones y diseños actuales y futuros en el <span lang="en">roadmap</span>. Comparta sus sugerencias en la hoja de ruta para ayudarle a crear el arte que necesita. ¡Sugiere tus ideas!
