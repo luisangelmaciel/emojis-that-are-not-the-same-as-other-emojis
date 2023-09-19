@@ -1,0 +1,16 @@
+{
+  "name": "Emojis that are not the same as other emojis",
+	"version": "1.0",
+  "description": "Si, otros emojis más en cátalogo de emojis, pero estos fueron trazados con amor, mucho amor.",
+  "scripts": {},
+  "authors": [
+    "Luis Angel Maciel <angel.luis@my.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "homepage": "https://luisangelmaciel.github.io/emojis-that-are-not-the-same-as-other-emojis/",
+	"keywords": [
+		"css", "icon-font", "icon", "icons"
+	]
+}
